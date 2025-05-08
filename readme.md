@@ -12,7 +12,7 @@ A forf of a - tool to build and deploy software across many servers.
 
 ## About
 
-The Komodo dragon is the largest living member of the [*Monitor* family of lizards](https://en.wikipedia.org/wiki/Monitor_lizard).
+The Labrador Retriever .
 
 There is no limit to the number of servers you can connect, and there will never be. There is no limit to what API you can use for automation, and there never will be. No "business edition" here.
 
