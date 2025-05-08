@@ -1,14 +1,14 @@
-# Komodo 🦎
+~# Komodo 🦎~           Bruce 🐶
 
-A tool to build and deploy software across many servers. 
+A forf of a - tool to build and deploy software across many servers. 
 
-🦎 [See the docs](https://komo.do)
+🐶 [See the docs](https://komo.do)
 
-🦎 [Try the Demo](https://demo.komo.do) - Login: `demo` : `demo`
+🐶 [Try the Demo](https://demo.komo.do) - Login: `demo` : `demo`
 
-🦎 [See the Build Server](https://build.komo.do)  - Login: `komodo` : `komodo`
+🐶 [See the Build Server](https://build.komo.do)  - Login: `komodo` : `komodo`
 
-🦎 [Join the Discord](https://discord.gg/DRqE8Fvg5c)
+
 
 ## About
 
